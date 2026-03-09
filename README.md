@@ -2,7 +2,7 @@
 
 <h1 align="center">Olá 👋, eu sou Mateus </h1>
 
-
+<p align="center">
 <a href="mailto:mateussmaganhasena@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
