@@ -2,7 +2,7 @@
 <h3 align="center">Estudante de Desenvolvimento de Sistemas | Java Developer em formação</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Java+Developer+in+training;Back-end+Developer;SENAI+Development+Student;Future+Software+Engineer;Always+learning+new+technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Java+Developer+in+training;Back-end+Developer;SENAI+Development+Student;Future+Software+Engineer;/>
 </p>
 ---
 
