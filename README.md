@@ -29,12 +29,11 @@
 
 ## 📚 Atualmente aprendendo
 
-- Lógica de Programação
-- HTML e Linguagens de Marcação
-- Programação Orientada a Objetos (POO) com Java
+
+- HTML e CSS
+- POO
 - Estruturas de Dados
 - Banco de Dados (SQL)
-- Desenvolvimento Back-end e Front-end
 - Levantamento de Requisitos
 - Arquitetura de Redes com IoT
 
@@ -48,13 +47,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=0teuxx&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0teuxx&layout=compact&theme=tokyonight)
-
----
 
 ## 🌎 Onde me encontrar
 
