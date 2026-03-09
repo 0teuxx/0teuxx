@@ -1,3 +1,6 @@
+
+
+<h1 align="center">Olá 👋, eu sou Mateus </h1>
 <a href="mailto:mateussmaganhasena@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -12,7 +15,6 @@
 
 </p>
 
-<h1 align="center">Olá 👋, eu sou Mateus </h1>
 <h3 align="center">Estudante de Desenvolvimento de Sistemas | Java Developer em formação</h3>
 <p align="center">
 
