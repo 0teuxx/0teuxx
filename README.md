@@ -1,3 +1,8 @@
+>
+
+
+<h1 align="center">Olá 👋, eu sou Mateus </h1>
+<h3 align="center">Estudante de Desenvolvimento de Sistemas | Java Developer em formação</h3>
 <p align="center">
 
 <a href="mailto:mateussmaganhasena@gmail.com">
@@ -12,11 +17,7 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</p>
-
-
-<h1 align="center">Olá 👋, eu sou Mateus </h1>
-<h3 align="center">Estudante de Desenvolvimento de Sistemas | Java Developer em formação</h3>
+</p
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Java+Developer+in+training;Back-end+Developer;SENAI+Development+Student;Future+Software+Engineer" />
 ---
