@@ -27,7 +27,9 @@
 📚 Futuro estudante de **Engenharia de Software**  
 🚀 Sempre aprendendo e desenvolvendo novos projetos 
 Com o Objetivo de:
+
 ✔ Evoluir como desenvolvedor Java
+
 ✔ Criar projetos para meu portfólio
 ✔ Ingressar na faculdade de Engenharia de Software
 
