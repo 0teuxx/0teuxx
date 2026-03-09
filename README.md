@@ -1,8 +1,11 @@
 <h1 align="center">Olá 👋, eu sou Mateus Câmara</h1>
 <h3 align="center">Estudante de Desenvolvimento de Sistemas | Java Developer em formação</h3>
 
+<h1 align="center">Olá 👋, eu sou Mateus Câmara</h1>
+<h3 align="center">Estudante de Desenvolvimento de Sistemas | Java Developer em formação</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Java+Developer+in+training;Back-end+Developer;SENAI+Development+Student;Future+Software+Engineer/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+Developer+in+training;Back-end+Developer;SENAI+Development+Student;Future+Software+Engineer" />
 </p>
 ---
 
