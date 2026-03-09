@@ -20,12 +20,11 @@
 </p
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Java+Developer+in+training;Back-end+Developer;SENAI+Development+Student;Future+Software+Engineer" />
----
 
 🎓 Estudante do curso técnico em Desenvolvimento de Sistemas no SENAI  
-☕ Focado em desenvolvimento com **Java**  
+☕ **Focado em desenvolvimento Back-end com Java**  
 📚 Futuro estudante de **Engenharia de Software**  
-🚀 Apredendo 
+💻 Desenvolvedor Full Stack em formação 
 Com o Objetivo de:
 
 ✔ Evoluir como desenvolvedor Java
