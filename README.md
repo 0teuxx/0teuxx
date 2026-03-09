@@ -25,12 +25,13 @@
 🎓 Estudante do curso técnico em Desenvolvimento de Sistemas no SENAI  
 ☕ Focado em desenvolvimento com **Java**  
 📚 Futuro estudante de **Engenharia de Software**  
-🚀 Sempre aprendendo e desenvolvendo novos projetos 
+🚀 Apredendo 
 Com o Objetivo de:
 
 ✔ Evoluir como desenvolvedor Java
 
 ✔ Criar projetos para meu portfólio
+
 ✔ Ingressar na faculdade de Engenharia de Software
 
 ---
@@ -64,7 +65,6 @@ Com o Objetivo de:
 
 ## 📚 Atualmente aprendendo
 
-
 - HTML e CSS
 - POO
 - Estruturas de Dados
@@ -73,25 +73,4 @@ Com o Objetivo de:
 - Arquitetura de Redes com IoT
 
 ---
-
-## 🎯 Objetivos
-
-✔ Evoluir como desenvolvedor Java  
-✔ Criar projetos para meu portfólio  
-✔ Ingressar na faculdade de Engenharia de Software  
-
----
-
-
-
-
-
-📧 Email: mateussmaganhasena@gmail.com  
-
-<a href="https://www.linkedin.com/in/mateus-camara-dev/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
----
-
 ⭐ Sempre aberto para aprender, colaborar e evoluir como desenvolvedor.
