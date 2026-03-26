@@ -69,7 +69,7 @@ Com o Objetivo de:
 ## 📚 Atualmente aprendendo
 
 - HTML e CSS
-- POO
+- P.O.O
 - Estruturas de Dados
 - Banco de Dados (SQL)
 - Levantamento de Requisitos
