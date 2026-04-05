@@ -71,7 +71,7 @@ Com o Objetivo de:
 - HTML e CSS
 - Progamação Orientada a Objeto
 - Estruturas de Dados
-- Banco de Dados (SQL)
+- Banco de Dados (SQL, Maria DB)
 - Levantamento de Requisitos
 - Arquitetura de Redes com IoT
 
